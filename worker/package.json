@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "redis": "2.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.3"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "author": {
+    "name": "Dzenis H.",
+    "url": "https://dzenis-h.com"
+  }
+}
