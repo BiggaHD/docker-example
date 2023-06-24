@@ -12,17 +12,17 @@
 <img src="https://stackoverflow.com/users/flair/8146571.png?theme=dark&showIcon=true&showName=true&showBadges=true&showRep=true&showPosts=true&stackApps=true"/>
 </p>
 
-## docker-example <img src="https://img.icons8.com/color/48/000000/docker.png" width="32" height="32" style="padding: 5px; vertical-align: middle;"/> ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+## Docker Example <img src="https://img.icons8.com/color/48/000000/docker.png" width="32" height="32" style="padding: 5px; vertical-align: middle;"/>
 
 ## Overview 👀
 
-docker-example is a multi-container workflow with Docker, NGINX, Travis and AWS. It demonstrates how to use Docker to create and run multiple services in a single application, how to use NGINX as a reverse proxy and load balancer, how to use Travis CI for continuous integration and deployment, and how to use AWS Elastic Beanstalk for hosting the application.
+docker-example is a multi-container workflow with Docker, NGINX, Travis, and AWS. It demonstrates how to use Docker to create and run multiple services in a single application, how to use NGINX as a reverse proxy and load balancer, how to use Travis CI for continuous integration and deployment, and how to use AWS Elastic Beanstalk for hosting the application.
 
 ## Tech Stack 🛠️
 
 | Tech | Docs | Description |
 | ---- | ---- | ----------- |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | The main programming language used for the client, server and worker services. |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | The main programming language used for the client, server, and worker services. |
 | ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | The markup language used for creating the web pages. |
 | ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | The style sheet language used for styling the web pages. |
 | ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react) | [React](https://reactjs.org/) | The front-end library used for building the user interface. |
